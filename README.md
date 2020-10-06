@@ -1,2 +1,2 @@
 # IntroductoryMachineLearning
-Projects as part of coursework toward McGill's course titled ECSE 551 - Machine Learning for Engineers 
+Projects as part of ECSE 551 - Machine Learning for Engineers
